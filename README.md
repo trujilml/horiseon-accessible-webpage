@@ -23,8 +23,6 @@ https://github.com/trujilml/horiseon-accessible-webpage
 https://trujilml.github.io/horiseon-accessible-webpage/ 
 
 # Screenshots
-* <img src="./assets/images/horiseon-accessible-webpage1.png />
 
-*
 # Contributed
 Refactored with ❤️ by Mekayla Trujillo
