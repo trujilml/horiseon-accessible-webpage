@@ -23,7 +23,7 @@ https://github.com/trujilml/horiseon-accessible-webpage
 https://trujilml.github.io/horiseon-accessible-webpage/ 
 
 # Screenshots
-* <img src="./assets/images/horiseon-accessible-webpage1.png />
+* ! [screenshot1] (/assets/images/horiseon-accessible-webpage1.png)
 
 *
 # Contributed
