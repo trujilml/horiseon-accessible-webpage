@@ -22,8 +22,8 @@ https://github.com/trujilml/horiseon-accessible-webpage
 * Official Deployed Website
 https://trujilml.github.io/horiseon-accessible-webpage/ 
 
-# Screenshots
-* ! [screenshot1] (assets/images/horiseon-accessible-webpage1.png)
+## Screenshots
+* ! [horiseon-accessible-webpage1] (/assets/images/horiseon-accessible-webpage1.png)
 
 *
 # Contributed
